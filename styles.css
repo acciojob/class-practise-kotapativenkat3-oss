@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.con p:nth-child(odd){
+.selector p:nth-child(odd){
 	color: #00f;
 	background-color: #eee;
 	font-family: "Arial";
